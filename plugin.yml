@@ -1,0 +1,14 @@
+main: me.Melo.CustomItems.Main
+name: MelosCustomItems
+version: 0.1
+author: Melo
+#
+commands:
+   getmjolnir:
+   
+permissions:
+   meloscustomitems.*:
+   children:
+      meloscustomitems.getmjolnir:
+      
+   meloscustomitems.getmjolnir:
